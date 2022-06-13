@@ -1,0 +1,13 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://onwelo-bucket.s3.amazonaws.com/economist_bigmac_Venezuela.csv"
+            ]
+        },
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ","
+    }
+}
